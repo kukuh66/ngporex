@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngoprexblog=self.webpackChunkngoprexblog||[]).push([[2992],{2572:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/ngporex/blog/tags/hola","allTagsPath":"/ngporex/blog/tags","count":1}')}}]);

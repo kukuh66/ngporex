@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngoprexblog=self.webpackChunkngoprexblog||[]).push([[2654],{7359:e=>{e.exports=JSON.parse('{"permalink":"/ngporex/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

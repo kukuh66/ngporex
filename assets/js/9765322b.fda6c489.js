@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngoprexblog=self.webpackChunkngoprexblog||[]).push([[3817],{6473:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/ngporex/blog/tags/facebook","allTagsPath":"/ngporex/blog/tags","count":1}')}}]);
